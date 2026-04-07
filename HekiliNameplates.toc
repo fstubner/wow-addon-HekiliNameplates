@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Hekili Nameplates
+## Notes: Anchors Hekili recommendation frames to the target's nameplate.
+## Author: fstubner
+## Version: 1.0.0
+## SavedVariables: HekiliNameplatesDB
+
+HekiliNameplates.lua
